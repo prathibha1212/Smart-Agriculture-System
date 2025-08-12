@@ -23,11 +23,5 @@ An IoT-based Smart Agriculture System using ESP32, soil moisture sensor, DHT22, 
 - MQTT Broker (Mosquitto)
 - Wi-Fi network
 
-## 📷 Images
-![Dashboard](Images/dashboard_view.png)
-![Hardware Setup](Images/hardware_setup.jpg)
-
----
-
 🚀 *Work in progress – more updates coming soon.*
 
